@@ -1,7 +1,7 @@
 # Compiler Lab 2024
 
 
-| Exp. No. | Experiment Name | Download C File | Download PDF |
+| Exp. No. | Experiment Name | Download Program File | Download PDF |
 | --- | --- | --- | --- |
 | 1. | Lexical Analyzer implementation by using C program | [Open](https://github.com/blackpeps/compilerlab2024/blob/main/Code/EXP01/exp01_v2.c) | Open |
 |2. | Implement the lexical analyzer using lex or other lexical analyzer generating tools | [Open](https://github.com/blackpeps/compilerlab2024/blob/main/Code/EXP02/exp_02.l) | Open |
