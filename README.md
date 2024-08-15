@@ -12,3 +12,4 @@
 | 3. | LEX PROGRAM TO CONVERT THE SUBSTRING abc TO ABC | [Open](https://github.com/blackpeps/compilerlab2024/blob/main/Code/EXP03/exp03.l) | Open |
 | 4. | FIND NUMBER OF VOWELS AND CONSONANTS FROM THE GIVEN INPUT STRING | [Open](https://github.com/blackpeps/compilerlab2024/blob/main/Code/EXP04/exo04.l)
 | 5. | YACC SPECIFICATION TO RECOGNIZE A VALID ARITHMETIC EXPRESSION | [Open Yacc File](https://github.com/blackpeps/compilerlab2024/blob/main/Code/EXP05/exp05.y) <br /> [Open Lex File](https://github.com/blackpeps/compilerlab2024/blob/main/Code/EXP05/exp05.l) | Open |
+| 6. | YACC SPECIFICATION TO RECOGNIZE A VALID IDENTIFIER WHICH STARTS WITH A LETTER | [Open YACC File](https://github.com/blackpeps/compilerlab2024/blob/main/Code/EXP06/exp06.y) <br /> [Open Lex File](https://github.com/blackpeps/compilerlab2024/blob/main/Code/EXP06/exp06.l) | Open |
