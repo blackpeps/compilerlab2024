@@ -11,4 +11,4 @@
 | 2. (d) | Program to check the matching of opening and closing brackets | [Open](https://github.com/blackpeps/compilerlab2024/blob/main/Code/EXP02/exp02d.l) | Open |
 | 3. | LEX PROGRAM TO CONVERT THE SUBSTRING abc TO ABC | [Open](https://github.com/blackpeps/compilerlab2024/blob/main/Code/EXP03/exp03.l) | Open |
 | 4. | FIND NUMBER OF VOWELS AND CONSONANTS FROM THE GIVEN INPUT STRING | [Open](https://github.com/blackpeps/compilerlab2024/blob/main/Code/EXP04/exo04.l)
-| 5. | YACC SPECIFICATION TO RECOGNIZE A VALID ARITHMETIC EXPRESSION | [Open Yacc](https://github.com/blackpeps/compilerlab2024/blob/main/Code/EXP05/exp05.y) [Open Lex](https://github.com/blackpeps/compilerlab2024/blob/main/Code/EXP05/exp05.l) | Open |
+| 5. | YACC SPECIFICATION TO RECOGNIZE A VALID ARITHMETIC EXPRESSION | [Open Yacc File](https://github.com/blackpeps/compilerlab2024/blob/main/Code/EXP05/exp05.y) <br /> [Open Lex File](https://github.com/blackpeps/compilerlab2024/blob/main/Code/EXP05/exp05.l) | Open |
