@@ -1,0 +1,14 @@
+main() {
+    int a, b, c;
+    if (a) {
+        a = a + b;
+    }
+    while (a) {
+        a = a + b;
+    }
+    if (a <= b) {
+        c = a - b;
+    } else {
+        c = a + b;
+    }
+}
