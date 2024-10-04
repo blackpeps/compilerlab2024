@@ -16,3 +16,4 @@
 | 7. | COVERT BNF RULES INTO YACC FORM | [Open Yacc File](https://github.com/blackpeps/compilerlab2024/blob/main/Code/EXP07/exp07.y) <br /> [Open Lex File](https://github.com/blackpeps/compilerlab2024/blob/main/Code/EXP07/exp07.l) <br /> [Open Input File](https://github.com/blackpeps/compilerlab2024/blob/main/Code/EXP07/test_input.txt) | Open |
 | 8. | IMPLEMENTATION OF CALCULATOR | [Open YACC File](https://github.com/blackpeps/compilerlab2024/blob/main/Code/EXP08/exp08.y) <br /> [Open LEX File](https://github.com/blackpeps/compilerlab2024/blob/main/Code/EXP08/exp08.l) | Open |
 | 9. | Ε – CLOSURE OF ALL STATES OF ANY GIVEN NFA WITH Ε TRANSITION | [Open C File](https://github.com/blackpeps/compilerlab2024/blob/main/Code/EXP09/exp09.c) | Open |
+| 10. | PROGRAM TO CONVERT NFA TO DFA | [Open C File](https://github.com/blackpeps/compilerlab2024/blob/main/Code/EXP10/exp10.c) | Open |
