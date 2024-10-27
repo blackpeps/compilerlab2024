@@ -20,3 +20,5 @@
 | 11. | DESIGN AND IMPLEMENT A RECURSIVE DESCENT PARSER FOR A GIVEN GRAMMAR | [Open C File](https://github.com/blackpeps/compilerlab2024/blob/main/Code/EXP11/exp11.c) | Open |
 | 12. | SHIFT REDUCE PARSER | [Open C File](https://github.com/blackpeps/compilerlab2024/blob/main/Code/EXP12/exp12.c) | Open |
 | 13. | CONSTANT PROPAGATION | [Open C File](https://github.com/blackpeps/compilerlab2024/blob/main/Code/EXP13/exp13.c) | Open |
+| 14. | Intermediate Code Generation | [Open C File](https://github.com/blackpeps/compilerlab2024/blob/main/Code/EXP14/exp14.c) | Open |
+| 15. | SIMULATION OF CODE OPTIMIZATION TECHNIQUES | [Open C File](https://github.com/blackpeps/compilerlab2024/blob/main/Code/EXP15/exp15.c) | Open |
