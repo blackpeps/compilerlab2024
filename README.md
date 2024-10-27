@@ -18,5 +18,5 @@
 | 9. | Ε – CLOSURE OF ALL STATES OF ANY GIVEN NFA WITH Ε TRANSITION | [Open C File](https://github.com/blackpeps/compilerlab2024/blob/main/Code/EXP09/exp09.c) | Open |
 | 10. | PROGRAM TO CONVERT NFA TO DFA | [Open C File](https://github.com/blackpeps/compilerlab2024/blob/main/Code/EXP10/exp10.c) | Open |
 | 11. | DESIGN AND IMPLEMENT A RECURSIVE DESCENT PARSER FOR A GIVEN GRAMMAR | [Open C File](https://github.com/blackpeps/compilerlab2024/blob/main/Code/EXP11/exp11.c) | Open |
-| 12. | SHIFT REDUCE PARSER | [Open C File](https://github.com/blackpeps/compilerlab2024/blob/main/Code/EXP12/exp12.c) [Output](https://github.com/blackpeps/compilerlab2024/blob/main/Code/EXP12/output.png) | Open |
-| 13. | CONSTANT PROPAGATION | [Open C File](https://github.com/blackpeps/compilerlab2024/blob/main/Code/EXP13/exp13.c) [Output](https://github.com/blackpeps/compilerlab2024/blob/main/Code/EXP13/output.png) | Open |
+| 12. | SHIFT REDUCE PARSER | [Open C File](https://github.com/blackpeps/compilerlab2024/blob/main/Code/EXP12/exp12.c) | Open |
+| 13. | CONSTANT PROPAGATION | [Open C File](https://github.com/blackpeps/compilerlab2024/blob/main/Code/EXP13/exp13.c) | Open |
