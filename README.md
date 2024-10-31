@@ -22,3 +22,5 @@
 | 13. | CONSTANT PROPAGATION | [Open C File](https://github.com/blackpeps/compilerlab2024/blob/main/Code/EXP13/exp13.c) | Open |
 | 14. | Intermediate Code Generation | [Open C File](https://github.com/blackpeps/compilerlab2024/blob/main/Code/EXP14/exp14.c) | Open |
 | 15. | SIMULATION OF CODE OPTIMIZATION TECHNIQUES | [Open C File](https://github.com/blackpeps/compilerlab2024/blob/main/Code/EXP15/exp15.c) | Open |
+| 16. | Loop Unrolling | [Open C File](https://github.com/blackpeps/compilerlab2024/blob/main/Code/EXP16/exp16.c) | Open |
+| 17. | Backend of Compiler | [Open C File](https://github.com/blackpeps/compilerlab2024/blob/main/Code/EXP17/exp17.c) <br /> [Open Input File](https://github.com/blackpeps/compilerlab2024/blob/main/Code/EXP17/input.txt) | Open |
