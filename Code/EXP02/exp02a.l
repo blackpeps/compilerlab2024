@@ -8,7 +8,7 @@ int const_count = 0;
 
 %%
 
-[aeiouAEIOU]+  { vow_count++; }
+[aeiouAEIOU]   { vow_count++; }
 [a-zA-Z]       { const_count++; }
 \n             { 
                     printf("Number of vowels: %d\n", vow_count); 
